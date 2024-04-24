@@ -44,4 +44,4 @@ Follow these steps to use the MACD Based Stock Market Signal System:
 
 ## Output Image
 
-![output](https://github.com/siddhantgavand12/-MACD-Based-Stock-Market-Signal-System/assets/122528514/25b6a4e3-19f5-40db-a409-1ad5ef8568ee)
+![output](https://github.com/siddhantgavand12/MACD-Based-Stock-Market-Signal-System/assets/122528514/192a889c-afb7-4990-957f-4fb42831735b)
